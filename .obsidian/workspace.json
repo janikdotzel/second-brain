@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-01-08.md",
+                "file": "resources/books/Reactive Design Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2024-01-08.md",
+                "file": "resources/books/Reactive Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2024-01-08.md",
+                "file": "resources/books/Reactive Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2024-01-08.md"
+                "file": "resources/books/Reactive Design Patterns.md"
               }
             }
           }
@@ -146,20 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5eff6ad529261979",
+  "active": "6ad4579061357d84",
   "lastOpenFiles": [
-    "journal/01-01-2024.md",
+    "Pasted image 20240126133215.png",
+    "Pasted image 20240126133204.png",
+    "Pasted image 20240126132742.png",
+    "Pasted image 20240126132614.png",
+    "projects/lightbend.md",
+    "resources/books/Reactive Design Patterns.md",
+    "resources/books",
+    "resources",
+    "projects/invest-money.md",
+    "projects/financial-overview.md",
+    "projects/ai.md",
+    "projects/personal-portfolio.md",
+    "projects/mental-health.md",
+    "second-brain.md",
     "journal/2024-01-08.md",
+    "journal/01-01-2024.md",
     "journal/02-01-2024.md",
     "2024-01-08.md",
     "projects/table-tennis.md",
-    "projects/ai.md",
-    "projects/mental-health.md",
-    "projects/invest-money.md",
     "projects/physical-health.md",
-    "projects/financial-overview.md",
-    "projects/personal-portfolio.md",
-    "projects/lightbend.md",
     "projects/nutrition.md",
     "areas/finance/finance.md",
     "areas/finance",
@@ -171,7 +179,6 @@
     "areas/health",
     "areas/career/career.md",
     "areas/career",
-    "second-brain.md",
     "projects",
     "journal",
     "areas",
@@ -179,10 +186,6 @@
     "second-brain/projects/table-tennis.md",
     "second-brain/projects/physical-health.md",
     "second-brain/projects/personal-portfolio.md",
-    "second-brain/projects/nutrition.md",
-    "second-brain/projects/mental-health.md",
-    "second-brain/projects/lightbend.md",
-    "second-brain/projects",
-    "second-brain/areas/social"
+    "second-brain/projects/nutrition.md"
   ]
 }

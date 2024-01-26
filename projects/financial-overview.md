@@ -18,8 +18,8 @@ projects: financial-overview
 - [ ] What needs to be my monthly savings rate to buy an appartment
 
 ### Budget my monthly expenses
-- [ ] Create budgets in Finanzguru
-- [ ] Only pay digital (or maintain cash money in the app)
+- [x] Create budgets in Finanzguru
+- [x] Only pay digital (or maintain cash money in the app)
 - [ ] Review monthly expenses each month
 
 # Solved Tasks
